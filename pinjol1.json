@@ -3,8 +3,8 @@
     {
       "status": 1,
       "redirect_url": "",
-      "privacy_policy_url": "https://sites.google.com/view/majujalanprivacypolicy/",
-      "email_feedback_and_report": "yanahnurhasanah1976@gmail.com",
+      "privacy_policy_url": "https://sites.google.com/view/aadhar-my-privacy/",
+      "email_feedback_and_report": "jackjose870@gmail.com",
       "webview_cache": false,
       "post_list_in_large_style": false,
       "show_post_list_header": true,
@@ -23,8 +23,8 @@
   "ads": [
     {
       "ad_status": 1,
-      "main_ad": "applovin_max",
-      "backup_ad": "startapp",
+      "main_ad": "facebook",
+      "backup_ad": "applovin_max",
       "admob_banner_unit_id": "",
       "admob_interstitial_unit_id": "",
       "admob_native_unit_id": "",
