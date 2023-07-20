@@ -68,7 +68,7 @@
   "categories": [
     {
       "id": 1,
-      "name": "Bus Kids Panda",
+      "name": "Pinjol Tips",
       "image": "https://raw.githubusercontent.com/majjalan111/com.inimodbuskidspanda.stjmajujalanbussid/main/kidspanda%20fitur.png"
     }
   ],
@@ -83,9 +83,16 @@
     },{
       "id": 2,
       "category": "Pinjol Tips",
-      "title": "Apakah Bisa Pinjam Uang di DANA?",
-      "image": "https://i.ibb.co/p4n9NKs/Syarat-Pinjam-Uang-di-DANA.jpg",
-      "content": "https://htmlpreview.github.io/?https://raw.githubusercontent.com/jackjose1/mypinjol1/main/pinjol1.html",
+      "title": "Cara Pinjam Uang di Aplikasi DANA Premium",
+      "image": "https://i.ibb.co/B25wGyw/cara-pinjam-di-dana-2.jpg.webp" ",
+      "content": "https://htmlpreview.github.io/?https://raw.githubusercontent.com/jackjose1/mypinjol1/main/pinjol2.html",
+      "video": ""
+    },{
+      "id": 3,
+      "category": "Pinjol Tips",
+      "title": "Cara Pinjam Uang di Aplikasi DANA Premium",
+      "image": "https://i.ibb.co/B25wGyw/cara-pinjam-di-dana-2.jpg.webp" ",
+      "content": "https://htmlpreview.github.io/?https://raw.githubusercontent.com/jackjose1/mypinjol1/main/pinjol3.html",
       "video": ""
     }
 	
