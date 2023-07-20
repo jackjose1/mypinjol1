@@ -75,10 +75,17 @@
   "posts": [
     {
       "id": 1,
-      "category": "Bus Kids Panda",
-      "title": "Mod Bus dan Livery Kids Panda Full DOP",
-      "image": "https://raw.githubusercontent.com/majjalan111/com.inimodbuskidspanda.stjmajujalanbussid/main/kidspanda%20fitur.png",
-      "content": "https://htmlpreview.github.io/?https://raw.githubusercontent.com/majjalan111/com.inimodbuskidspanda.stjmajujalanbussid/main/kidspanda1.html",
+      "category": "Pinjol Tips",
+      "title": "Apakah Bisa Pinjam Uang di DANA?",
+      "image": "https://i.ibb.co/p4n9NKs/Syarat-Pinjam-Uang-di-DANA.jpg",
+      "content": "https://htmlpreview.github.io/?https://raw.githubusercontent.com/jackjose1/mypinjol1/main/pinjol1.html",
+      "video": ""
+    },{
+      "id": 2,
+      "category": "Pinjol Tips",
+      "title": "Apakah Bisa Pinjam Uang di DANA?",
+      "image": "https://i.ibb.co/p4n9NKs/Syarat-Pinjam-Uang-di-DANA.jpg",
+      "content": "https://htmlpreview.github.io/?https://raw.githubusercontent.com/jackjose1/mypinjol1/main/pinjol1.html",
       "video": ""
     }
 	
